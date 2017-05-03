@@ -10,7 +10,7 @@ import java.util.ArrayList;
  *
  */
 public class BattleShip {
-	
+	// declaring ship type..
 	
 	public String getShipType() {
 		return shipType;
